@@ -1,0 +1,4 @@
+xmltodict>=0.13.0
+pandas>=2.0.0
+pytz>=2023.3
+tqdm>=4.65.0 
