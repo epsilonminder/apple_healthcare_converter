@@ -1,6 +1,6 @@
 # Healthcare XML Converter
 
-Apple HealthからエクスポートしたXMLデータをCSVファイルに変換するPythonスクリプトです。
+iPhoneの「ヘルスケアデータ」からエクスポートしたXMLデータをCSVファイルに変換するPythonスクリプトです。
 
 ## 機能
 
